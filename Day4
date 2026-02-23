@@ -14,3 +14,7 @@ I used the 'ls -l' command to view the permissions on the file I created.
 I used the 'chmod 555 xfusioncorp.sh' command to grant the file read and execute permissions for owner, group and others.
 I used the 'ls -l' command to view and ensure that the permissions took effect.
 I used the './xfusioncorp.sh' command to ensure that me permission and file works.
+I used the 'git add Day4' command to stage the Day4 file for an upload.
+I used the 'git status' command to view and verify my tracked and untracked files.
+I used the 'git commit -m '(commit message)'' to add a meaningful commit message.
+I used the 'git push' to push the Day4 file to my github account.
